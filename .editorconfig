@@ -1,0 +1,13 @@
+root //根目录下
+[*] //针对所有的文件
+charset = utf-8 //字符集
+line_style = space //缩进风格
+line_indent = 4 //缩进大小
+end_of_line = lf 
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.md]
+insert_final_newline = false
+max_line_length = false
+trim_trailing_whitespace = false
