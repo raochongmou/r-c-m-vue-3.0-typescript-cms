@@ -37,3 +37,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 解决方案：cmd 下命令执行 ipconfig/flushdns
 
 ### 清理 dns 缓存
+
+### 解除报错问题:fatal: unable to access 'https://github.com/raochongmou/r-c-m-vue-3.0-typescript-cms.git/': Failed to connect to github.com port 443: Timed out
+### 解除ssl验证命令
+### git config --global http.sslVerify "false"
