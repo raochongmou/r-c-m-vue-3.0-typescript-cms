@@ -2,19 +2,6 @@
 
 module.exports = {
   plugins: [
-    // AutoImport({
-    //   resolvers: [ElementPlusResolver()]
-    // }),
-    // Components({
-    //   resolvers: [ElementPlusResolver()]
-    // })
-    // ElementPlus({
-    //   importStyle: "sass",
-    //   useSource: true
-    // }),
-    // Components({
-    //   resolvers: [ElementPlusResolver()]
-    // })
     // [
     //   "import",
     //   {
